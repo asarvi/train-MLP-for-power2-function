@@ -1,1 +1,1 @@
-# train-MLP-for-power2-function
+# train-MLP and RBF-for-x power2-function
